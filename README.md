@@ -1,2 +1,2 @@
 # Welcome
-A website about what if scenarios
+to a website about what if scenarios
